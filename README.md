@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://x.com/wuyang_zhou/status/2027727691634311646?s=20" target="_blank">
+    <img src="https://img.shields.io/badge/View_Post-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="View Post on X" />
+  </a>
+</p>
+
 # KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
 
 This repository contains the public implementation of [**KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices**](https://www.arxiv.org/abs/2601.21579), a parameter-efficient variant of manifold-constrained hyper-connections (mHC) for training large language models. KromHC guarantees the double stochasticity of the residual matrices and doesn't require customized kernels.
@@ -43,4 +49,5 @@ If you use this code in your research, please cite:
     - [mHC-lite](https://github.com/FFTYYY/mhc-lite)
 
 - This codebase has been designed to be compatible with the above two projects.
+
 
