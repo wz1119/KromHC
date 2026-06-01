@@ -38,7 +38,8 @@ If you use this code in your research, please cite:
   title={KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices},
   author={Zhou, Wuyang and Gu, Yuxuan and Iacovides, Giorgos and Mandic, Danilo},
   journal={arXiv preprint arXiv:2601.21579},
-  year={2026}
+  year={2026},
+  url={https://arxiv.org/abs/2601.21579}
 }
 ```
 
